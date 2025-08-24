@@ -15,8 +15,11 @@
 ---
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/962b6230-7b8b-4a77-aac7-10da8f1d2c86" />
 
+# 3D Model Preview  
 
-<img width="1136" height="884" alt="image" src="https://github.com/user-attachments/assets/9fb00f25-6ec4-4d18-bf1b-73d7fa1fad17" />
+[![Model Screenshot](https://github.com/user-attachments/assets/9fb00f25-6ec4-4d18-bf1b-73d7fa1fad17)](./BLENDER/myfrogfinal.glb)  
+
+> Click the image to open the 3D model (`.glb`) in GitHub’s built-in 3D viewer.  
 
 ---
 ## Running the Game
