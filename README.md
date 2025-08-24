@@ -38,9 +38,7 @@ cd UE5_World_Of_Dreams
 2. Right-click the ZIP file.
 3. Select “Extract All…”.
 4. Choose a destination folder, e.g.:
-5. 
   C:\Games\UE5_World_Of_Dreams
-
 6. Click Extract.
 7. Open terminal and run
 ```bash
