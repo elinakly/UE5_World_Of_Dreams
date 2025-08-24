@@ -10,11 +10,13 @@
 - Simple UI/UX
 - Maze
 - Music
+- Simple actor created in Blender
   
 ---
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/962b6230-7b8b-4a77-aac7-10da8f1d2c86" />
 
 
+<img width="1136" height="884" alt="image" src="https://github.com/user-attachments/assets/9fb00f25-6ec4-4d18-bf1b-73d7fa1fad17" />
 
 ---
 ## Running the Game
